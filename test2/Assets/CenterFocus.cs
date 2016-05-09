@@ -2,6 +2,7 @@
 
 public class CenterFocus : MonoBehaviour
 {
+	// private variables
 	private GameObject cameraObject;
 	private Transform startTransform;
 	private GameObject focus;
